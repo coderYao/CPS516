@@ -1,7 +1,7 @@
 Project0
 Shuyang Yao
 
-Some reference information and table structue are lost when I tried to convert the my original file into this md file, please refer the original pdf file if you find something weird....
+Some reference information and table structue are lost when I tried to convert the my original file into this md file, please refer the original pdf file(https://github.com/coderYao/CPS516/blob/master/shuyang_project0.pdf)if you find something weird....
 
 -   General Purpose:
 
